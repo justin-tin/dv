@@ -1,0 +1,107 @@
+body, html {
+	margin: 0;
+	padding: 0;
+}
+header {
+	width: 100%;
+	height: 70px;
+	background-color: #282828;
+}
+h2 {
+	position: absolute;
+	padding: 10px;
+	float: left;
+	margin-top: 10px;
+	font-family: 'Caveat', cursive;
+	color: #39ca74;
+}
+ul {
+	width: auto;
+	float: right;
+	margin-top: 8px;
+}
+li {
+	display: inline-block;
+	padding: 15px 30px;
+}
+a {
+	text-align: center;
+	color: #ffffff;
+	text-decoration: none;
+	font-family: 'Caveat', cursive;
+	font-size: 1.2vw;
+}
+
+
+.box {
+
+   background-color: #39ca74;
+   width: 100%;
+   margin: auto;
+   overflow: auto;
+   font-family: 'Caveat', cursive;
+   
+}
+.gallery {
+	margin: 5px;
+	border: 1px solid #ffffff;
+	float: left;
+	width: 300px;
+	height: auto;
+	
+	
+	
+}
+.gallery img {
+	width: 100%;
+	height: auto;
+
+}
+.desc {
+	padding: 15px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+footer {
+  	position: absolute;
+  	width: 100%;
+	height: 70px;
+	background-color: #282828;
+
+}
+p {
+	position: absolute;
+	padding: 10px;
+	float: left;
+	margin-top: 25px;
+	font-family: 'Caveat', cursive;
+	color: #39ca74;
+}
+h6 {
+	position: absolute;
+	padding: 10px;
+	float: left;
+	margin-top: 10px;
+	font-family: 'Caveat', cursive;
+	color: #39ca74;
+}
